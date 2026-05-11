@@ -1,0 +1,12 @@
+Item,Part Name,Quantity,Material or Source,Manufacturing Method,Purpose
+1,Base Plate,1,ABS plastic,3D printed prototype,Main mounting platform for the fixture
+2,Actuator Mount,1,ABS plastic,3D printed prototype,Holds the actuator or servo being tested
+3,Load Arm,1,ABS plastic,3D printed prototype,Attaches to the actuator shaft to apply rotational load
+4,Adjustable Weight Block,1,ABS plastic,3D printed prototype,Mounts to different holes on the load arm to vary loading position
+5,Adjustable Sensor Bracket,1,ABS plastic,3D printed prototype,Holds a future sensor for position or limit feedback
+6,Safety Guard,1,Clear acrylic or transparent plastic,Laser cut or 3D printed prototype,Covers the moving arm area during testing
+7,Servo or Actuator Placeholder,1,Purchased component,N/A,Represents the actuator under test
+8,Position Sensor Placeholder,1,Purchased component,N/A,Future sensor for detecting arm position or end limits
+9,Arduino or DAQ Placeholder,1,Purchased component,N/A,Future controller or data acquisition system for logging test results
+10,M3 Fasteners,Assorted,Steel,Purchased hardware,Mounts brackets and sensor components
+11,M4 Fasteners,Assorted,Steel,Purchased hardware,Mounts fixture components to the base plate
