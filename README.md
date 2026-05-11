@@ -14,13 +14,13 @@ The current revision is a CAD and documentation project. The actuator, sensor, a
 
 ## Assembly Preview
 
-![Full assembly isometric view](cad/screenshots/full_assembly_iso.png)
+![Full assembly isometric view](screenshots/full_assembly_iso.png)
 
-![Top view](cad/screenshots/top_view.png)
+![Top view](screenshots/top_view.png)
 
-![Load arm close-up](cad/screenshots/load_arm_closeup.png)
+![Load arm close-up](screenshots/load_arm_closeup.png)
 
-![Sensor bracket close-up](cad/screenshots/sensor_bracket_closeup.png)
+![Sensor bracket close-up](screenshots/sensor_bracket_closeup.png)
 
 ## What I Designed
 
