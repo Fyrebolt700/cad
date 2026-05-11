@@ -20,8 +20,6 @@ The current revision is a CAD and documentation project. The actuator, sensor, a
 
 ![Load arm close-up](screenshots/load_arm_closeup.png)
 
-![Sensor bracket close-up](screenshots/sensor_bracket_closeup.png)
-
 ## What I Designed
 
 ### Base Assembly
@@ -134,15 +132,6 @@ The logger records:
 * Test status
 
 The analysis script calculates position error, pass/fail count, and summary statistics for post-test failure analysis.
-
-Example CSV format:
-
-timestamp,cycle_count,commanded_position_deg,measured_response_deg,position_error_deg,fault_condition,test_status
-2026-05-11T10:00:00,1,0,0.4,0.4,NONE,PASS
-2026-05-11T10:00:02,2,45,44.2,-0.8,NONE,PASS
-2026-05-11T10:00:04,3,90,91.1,1.1,NONE,PASS
-2026-05-11T10:00:06,4,135,138.6,3.6,POSITION_ERROR_WARNING,PASS
-2026-05-11T10:00:08,5,180,186.2,6.2,POSITION_DRIFT,FAIL
 
 Files:
 
